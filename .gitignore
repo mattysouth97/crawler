@@ -1,0 +1,10 @@
+# 인증 세션 쿠키 — 자격증명, 절대 커밋 금지
+.zeus_session
+
+# 수집 진행 체크포인트 / 결과물
+.zeus_checkpoint.jsonl
+zeus_장비_반도체_자동차.xlsx
+
+# Python
+__pycache__/
+*.pyc
