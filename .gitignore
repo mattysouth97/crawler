@@ -1,7 +1,11 @@
 # 인증 세션 쿠키 — 자격증명, 절대 커밋 금지
 .zeus_session
 
-# 수집 진행 체크포인트 / 결과물
+# 사이트가 내려준 원본 xlsx / 병합 결과물
+zeus_raw/
+zeus_등록장비_반도체_자동차.xlsx
+
+# 이전 버전 산출물
 .zeus_checkpoint.jsonl
 zeus_장비_반도체_자동차.xlsx
 
